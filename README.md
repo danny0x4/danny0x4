@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danny0x4
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, Cyber Security.
 - 🌱 I’m currently learning everything🤣
-- 
+- 👌 Fortune favours the bold.
 - 📫 How to reach me? Connect with me on twitter
 
 <!---
